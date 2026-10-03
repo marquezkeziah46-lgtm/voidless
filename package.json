@@ -1,9 +1,9 @@
 {
   "name": "nullfied-bot",
-  "version": "2.1.0-HUMAN-MIMIC",
+  "version": "2.1.0",
   "main": "index.js",
   "dependencies": {
-    "biar-fca": "^1.0.0",
+    "ws3-fca": "latest",
     "express": "^4.19.2",
     "chalk": "^4.1.2"
   },
